@@ -1,1 +1,3 @@
-# Eragod.github.io
+# Eragod site
+
+just site
